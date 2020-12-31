@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'zimed-icon';
+    src: url('../fonts/zimed-icon.eot?xoxouk');
+    src: url('../fonts/zimed-icon.eot?xoxouk#iefix') format('embedded-opentype'), url('../fonts/zimed-icon.ttf?xoxouk') format('truetype'), url('../fonts/zimed-icon.woff?xoxouk') format('woff'), url('../fonts/zimed-icon.svg?xoxouk#zimed-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="zimed-icon-"],
+[class*=" zimed-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'zimed-icon' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.zimed-icon-app-development:before {
+    content: "\e900";
+}
+
+.zimed-icon-computer-graphic:before {
+    content: "\e901";
+}
+
+.zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/testi-1-2.jpg );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+    /* content: "\e902"; */
+}
+
+.service-one__col:nth-child(1) .service-one__single .zimed-icon-responsive::before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric2-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(2) .service-one__single .zimed-icon-computer-graphic:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric1-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(3) .service-one__single .zimed-icon-development1:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric3-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(4) .service-one__single .zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric4-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(5) .service-one__single .zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric5-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(6) .service-one__single .zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric6-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(7) .service-one__single .zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric7-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.service-one__col:nth-child(8) .service-one__single .zimed-icon-development:before {
+    content: "";
+    background-image: url(../images/testimonials/Isometric8-64.png );
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: contain;
+}
+
+.zimed-icon-development1:before {
+    content: "\e903";
+}
+
+.zimed-icon-left-arrow:before {
+    content: "\e904";
+}
+
+.zimed-icon-right-arrow:before {
+    content: "\e905";
+}
+
+.zimed-icon-message:before {
+    content: "\e906";
+}
+
+.zimed-icon-phone-call:before {
+    content: "\e907";
+}
+
+.zimed-icon-placeholder:before {
+    content: "\e908";
+}
+
+.zimed-icon-responsive:before {
+    content: "\e909";
+}
+
+.zimed-icon-strategy:before {
+    content: "\e90a";
+}
+
+.zimed-icon-training:before {
+    content: "\e90b";
+}
